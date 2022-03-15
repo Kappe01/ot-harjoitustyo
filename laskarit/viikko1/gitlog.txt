@@ -1,0 +1,86 @@
+commit b98c45cdc758ec28377021a7dbf0c1b5e296b4b1
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 19:02:39 2022 +0200
+
+    muutos ja poisto
+
+ file2.txt           | 0
+ file1.txt => file22 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 3464e31262e945ec20c865c80ef24ba29989e1f6
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 19:00:35 2022 +0200
+
+    lisätty
+
+ file1.txt | 0
+ file2.txt | 0
+ file3     | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4d863507e6780164f1c471c8b79d9c8537f4de86
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 18:57:00 2022 +0200
+
+    muutettu
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit d1afa3b20766559f1da4236a9871cae84b87520c
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 18:55:24 2022 +0200
+
+    nimi vaihdettu
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 45f81e75727bf78ae0cbbf8e7332d69b9f156b98
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 18:54:41 2022 +0200
+
+    Poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 88b47af037eb44adbcdcda3e43440b31aa1d7cd3
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 18:51:23 2022 +0200
+
+    muunnos ja muokkaus
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 7243a15d48673ac79b93fc90fea5ee4100816b21
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 13:51:39 2022 +0200
+
+    muutos ja lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aa3b88667dd4190faa93f7fc575fc8bc05656b95
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 13:48:11 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 244553b1b056a7c12608c918571cfc2d07454c46
+Author: Kasper Envalds <kasper.envalds@gmail.com>
+Date:   Tue Mar 15 13:45:37 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
